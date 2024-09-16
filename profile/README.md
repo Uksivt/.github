@@ -6,6 +6,7 @@
     <a href="https://github.com/Uksivt/Hermes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Uksivt&repo=Hermes&theme=prussian&hide_border=true&show_icons=true"></a>
     <a href="https://github.com/Uksivt/Medusa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Uksivt&repo=Medusa&theme=prussian&hide_border=true&show_icons=true"></a>
     <a href="https://github.com/Uksivt/Gefest"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Uksivt&repo=Gefest&theme=prussian&hide_border=true&show_icons=true"></a>
+    <a href="https://github.com/Uksivt/Chronos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Uksivt&repo=Chronos&theme=prussian&hide_border=true&show_icons=true"></a>
 </p>
 <!--
 
