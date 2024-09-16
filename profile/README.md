@@ -1,4 +1,4 @@
-<h2>📱 Mobile</h2>
+<h2>🐋 Apps</h2>
 
 ![skills](https://skillicons.dev/icons?i=flutter,dart,supabase&theme=dark)
 
