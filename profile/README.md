@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2>📱 Mobile projects</h2>
+<h2>📱 Mobile</h2>
 
 ![skills](https://skillicons.dev/icons?i=flutter,dart,supabase&theme=dark)
 
