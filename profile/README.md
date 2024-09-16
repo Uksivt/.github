@@ -1,6 +1,6 @@
 <h2>🐋 Apps</h2>
 
-![skills](https://skillicons.dev/icons?i=flutter,dart,supabase&theme=dark)
+![skills](https://skillicons.dev/icons?i=flutter,dart,python,fastapi,supabase,postgres,redis,docker,&theme=dark)
 
 <p align="left">
     <a href="https://github.com/Uksivt/Gefest"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Uksivt&repo=Gefest&theme=prussian&hide_border=true&show_icons=true"></a>
